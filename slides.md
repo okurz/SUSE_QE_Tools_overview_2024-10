@@ -4,15 +4,13 @@
 
 <small>
 
-* From [resolved tasks](https://progress.opensuse.org/issues?query_id=541), 204 tickets total:
- * 32 feature requests, 52 bugs, 109 infrastructure + other
- * Improved performance in multiple places (10-50% faster)
- * Reduced SPOFs, distribute administration
- * Added multi-group overview pages and single-page reports
- * [Debian](https://openqa.debian.net/) and [GNOME](https://openqa.gnome.org/) now use openQA
+* From [resolved tasks](https://progress.opensuse.org/issues?query_id=541), 372 tickets since last report:
+ * 20% openQA feature requests (=), 20% bugs (=), 28% infrastructure (+), 32% other (+)
+ * Focus on Maintenance QA tasks [poo#91646](https://progress.opensuse.org/issues/91646)
+ * Easy multi-machine handling: MM-tests as first-class citizens [poo#103962](https://progress.opensuse.org/issues/103962)
+ * VMWare 7.0 support [poo#100688](https://progress.opensuse.org/issues/100688)
 * From [monitor dashboard](https://monitor.qa.suse.de/):
- * Availability of OSD 99.6%, median job age 37m
-* Workshop series
+ * Availability of OSD 98.6%, decreased due to reduced datacenter quality, enough capacity
 
 </small>
 
@@ -22,10 +20,9 @@
 
 <small>
 
-* Improve SUSE Maintenance QA workflows ([poo#91646](https://progress.opensuse.org/issues/91646))
-* Scale out (new instances, new products, new datacenter; [poo#80142](https://progress.opensuse.org/issues/80142))
-* Scale up (existing instances; [poo#64746](https://progress.opensuse.org/issues/64746))
-* Ease review ([#39719](https://progress.opensuse.org/issues/39719))
+* (old) Conclude: Improve SUSE Maintenance QA workflows [poo#91646](https://progress.opensuse.org/issues/91646)
+* Up-to-date and current QA setup in SUSE Nbg [poo#115280](https://progress.opensuse.org/issues/115280)
+* Stable and updated non-qemu backends for SLE validation [poo#109668](https://progress.opensuse.org/issues/109668)
 
 See [QE tools team - backlog, top-level](https://progress.opensuse.org/issues?query_id=524) for reference
 
@@ -39,8 +36,8 @@ See [QE tools team - backlog, top-level](https://progress.opensuse.org/issues?qu
 
 <small>
 
-* More products, more users, more instances: We suffer from our own success :)
-* Hardware-related administration work hinders software development
+* Limited team capacity
+* Infrastructure work partially conflicts with team interest and motivation
 
 </small>
 
@@ -49,10 +46,8 @@ See [QE tools team - backlog, top-level](https://progress.opensuse.org/issues?qu
 
 <small>
 
-* Additional redundancy for O3 PPC
-* Rest of workers needing replacement (nearly all current hardware out of maintenance)
-* SSD storage for O3 would improve user experience
-* Increase number of CPU cores for OSD VM
+* O3 PowerPC Power9
+* (unchanged) SSD SAN storage (NetApp) for O3 would improve user experience (can not just buy drives on our own)
 
 See https://progress.opensuse.org/projects/openqav3/wiki/#openQA-infrastructure-needs-o3-osd
 for reference
