@@ -46,8 +46,7 @@ See [QE tools team - backlog, top-level](https://progress.opensuse.org/issues?qu
 
 <small>
 
-* O3 PowerPC Power9
-* (unchanged) SSD SAN storage (NetApp) for O3 would improve user experience (can not just buy drives on our own)
+* We are good :)
 
 See https://progress.opensuse.org/projects/openqav3/wiki/#openQA-infrastructure-needs-o3-osd
 for reference
