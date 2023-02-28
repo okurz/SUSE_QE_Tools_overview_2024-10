@@ -4,13 +4,13 @@
 
 <small>
 
-* From [resolved tasks](https://progress.opensuse.org/issues?query_id=541), 372 tickets since last report:
- * 20% openQA feature requests (=), 20% bugs (=), 28% infrastructure (+), 32% other (+)
- * Focus on Maintenance QA tasks [poo#91646](https://progress.opensuse.org/issues/91646)
- * Easy multi-machine handling: MM-tests as first-class citizens [poo#103962](https://progress.opensuse.org/issues/103962)
- * VMWare 7.0 support [poo#100688](https://progress.opensuse.org/issues/100688)
+* From [resolved tasks](https://progress.opensuse.org/issues?query_id=541), 210 (down from 372) tickets since last report:
+ * 13% openQA feature requests (-), 20% bugs (=), 44% infrastructure (+), 23% other (-)
+ * Properly maintained Maintenance QA tooling [poo#111347](https://progress.opensuse.org/issues/111347)
+ * Linux Endpoint Protection on QE machines [poo#123094](https://progress.opensuse.org/issues/123094)
+ * A/C broken in TAM lab [poo#123028](https://progress.opensuse.org/issues/123028)
 * From [monitor dashboard](https://monitor.qa.suse.de/):
- * Availability of OSD 98.6%, decreased due to reduced datacenter quality, enough capacity
+ * Availability of OSD 99.7%, increased again, enough capacity
 
 </small>
 
@@ -21,8 +21,9 @@
 <small>
 
 * (old) Conclude: Improve SUSE Maintenance QA workflows [poo#91646](https://progress.opensuse.org/issues/91646)
+* (old) Stable and updated non-qemu backends for SLE validation [poo#109668](https://progress.opensuse.org/issues/109668)
 * Up-to-date and current QA setup in SUSE Nbg [poo#115280](https://progress.opensuse.org/issues/115280)
-* Stable and updated non-qemu backends for SLE validation [poo#109668](https://progress.opensuse.org/issues/109668)
+* Come back to "Scale out: Redundant/load-balancing openQA" [poo#80142](https://progress.opensuse.org/issues/80142)
 
 See [QE tools team - backlog, top-level](https://progress.opensuse.org/issues?query_id=524) for reference
 
@@ -36,8 +37,8 @@ See [QE tools team - backlog, top-level](https://progress.opensuse.org/issues?qu
 
 <small>
 
-* Limited team capacity
-* Infrastructure work partially conflicts with team interest and motivation
+* (same) Limited team capacity
+* (same) Infrastructure work partially conflicts with team interest and motivation
 
 </small>
 
