@@ -4,14 +4,14 @@
 
 <small>
 
-* From [resolved tasks](https://progress.opensuse.org/issues?query_id=541), 360+ (from 210) tickets since last report:
- * 17% openQA feature requests (-), 16% bugs (=), 44% infrastructure (+), 23% other (=)
- * Improve SUSE Maintenance QA workflows [poo#91646](https://progress.opensuse.org/issues/91646)
- * Stable and updated non-qemu backends for SLE validation [poo#109668](https://progress.opensuse.org/issues/109668)
- * Ensure proper QE maintainership of Nbg QAM machines [poo#124721](https://progress.opensuse.org/issues/124721)
- * Nuremberg QA labs move to Frankencampus [poo#115502](https://progress.opensuse.org/issues/115502)
+* From [resolved tasks](https://progress.opensuse.org/issues?query_id=541), 417+ (from 360) tickets since last report:
+ * 14% openQA feature requests (-), 11% bugs (-), 59% infrastructure (+), 16% other (-)
+ * Up-to-date and current QA setup in SUSE [poo#115280](https://progress.opensuse.org/issues/115280)
+ * Migration out of SUSE NUE1 - QE setup in NUE3 [poo#130955](https://progress.opensuse.org/issues/130955)
+ * Migration of SUSE Nbg based openQA+QA+QAM systems to new security zones [poo#116623](https://progress.opensuse.org/issues/116623)
+ * Infrastructure administration resource requirements have been mitigated with squad rotations
 * From [monitor dashboard](https://monitor.qa.suse.de/):
- * Availability of OSD 99.7%, stable, enough capacity
+ * Availability of OSD 99.4%, slight decrease due to migration, stable, enough capacity
 
 </small>
 
@@ -21,9 +21,9 @@
 
 <small>
 
-* (old) Up-to-date and current QA setup in SUSE Nbg [poo#115280](https://progress.opensuse.org/issues/115280)
+Shift focus to development tasks benefitting biggest user groups:
 * (old) Full version control awareness within openQA [poo#58184](https://progress.opensuse.org/issues/58184)
-* QE setup in PRG2+NUE3 [poo#121720](https://progress.opensuse.org/issues/121720)
+* (old) QE setup in PRG2+NUE3 [poo#121720](https://progress.opensuse.org/issues/121720)
 * openQA for SUSE customers [poo#127031](https://progress.opensuse.org/issues/127031)
 
 See [QE tools team - backlog, top-level](https://progress.opensuse.org/issues?query_id=524) for reference
@@ -38,7 +38,7 @@ See [QE tools team - backlog, top-level](https://progress.opensuse.org/issues?qu
 
 <small>
 
-* (same) Infrastructure work conflicts with team competency, interest and motivation
+* None. We made our peace with the current situation and we are good :)
 
 </small>
 
@@ -47,9 +47,11 @@ See [QE tools team - backlog, top-level](https://progress.opensuse.org/issues?qu
 
 <small>
 
-* We need infrastructure administration ressources! Short term: Rotation, long
+* Infrastructure administration ressources: Short term: ~~Rotation~~, long
   term: Team extension?
 * Hardware: We are good :)
+* Proposal: To suceed with the roadmap+helping both internal+external
+  customers extend the team by 4 FTEs and split into two
 
 See https://progress.opensuse.org/projects/openqav3/wiki/#openQA-infrastructure-needs-o3-osd
 for reference
