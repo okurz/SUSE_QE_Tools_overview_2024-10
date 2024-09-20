@@ -4,14 +4,14 @@
 
 <small>
 
-* From [resolved tasks](https://progress.opensuse.org/issues?query_id=541), 417+ (from 360) tickets since last report:
- * 14% openQA feature requests (-), 11% bugs (-), 59% infrastructure (+), 16% other (-)
- * Up-to-date and current QA setup in SUSE [poo#115280](https://progress.opensuse.org/issues/115280)
- * Migration out of SUSE NUE1 - QE setup in NUE3 [poo#130955](https://progress.opensuse.org/issues/130955)
- * Migration of SUSE Nbg based openQA+QA+QAM systems to new security zones [poo#116623](https://progress.opensuse.org/issues/116623)
- * Infrastructure administration resource requirements have been mitigated with squad rotations
+* From [resolved tasks](https://progress.opensuse.org/issues?query_id=541), 500+ (from 417) tickets since last report:
+ * 28% openQA feature requests (+), 20% bugs (+), 40% infrastructure (-), 12% other (-)
+ * Migration to QE setup in PRG2+NUE3 while ensuring availability [poo#121720](https://progress.opensuse.org/issues/121720)
+ * We could shift focus again to development
+ * Podcasts and workshops on https://open.qa
+ * Onboarding new members
 * From [monitor dashboard](https://monitor.qa.suse.de/):
- * Availability of OSD 99.4%, slight decrease due to migration, stable, enough capacity
+ * Availability of OSD 98.3%, decrease but higher requirements
 
 </small>
 
@@ -21,10 +21,10 @@
 
 <small>
 
-Shift focus to development tasks benefitting biggest user groups:
+Improve the user experience benefitting biggest user groups + common-criteria network separation:
 * (old) Full version control awareness within openQA [poo#58184](https://progress.opensuse.org/issues/58184)
-* (old) QE setup in PRG2+NUE3 [poo#121720](https://progress.opensuse.org/issues/121720)
 * openQA for SUSE customers [poo#127031](https://progress.opensuse.org/issues/127031)
+* Support CC-compliance of PRG2 while ensuring business continuity [poo#165282](https://progress.opensuse.org/issues/165282)
 
 See [QE tools team - backlog, top-level](https://progress.opensuse.org/issues?query_id=524) for reference
 
@@ -38,7 +38,7 @@ See [QE tools team - backlog, top-level](https://progress.opensuse.org/issues?qu
 
 <small>
 
-* None. We made our peace with the current situation and we are good :)
+* CC-compliance plans (or non-plans) are a disruption but we will survive :)
 
 </small>
 
